@@ -1,29 +1,28 @@
 {
-  "name": "react-reveal",
-  "version": "1.2.2",
-  "author": "Roman Nosov <rnosov@gmail.com>",
-  "description": "Really simple way to add reveal on scroll animation to your React app.",
+  "name": "react-reveal-animation",
+  "version": "1.2.3",
+  "author": "Williams Joseph <josephpay911@gmail.com>",
+  "description": "My forked version of react-reveal with updates for react@18.x.x compatibility.",
   "license": "MIT",
   "keywords": [
-    "react",
-    "reveal",
-    "reactreveal",
-    "scroll"
+    "next js animation",
+    "react animation",
+    "react animation scroll"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rnosov/react-reveal"
+    "url": "https://github.com/smith911-tech/react-reveal-animation"
   },
   "bugs": {
-    "url": "https://github.com/rnosov/react-reveal/issues"
+    "url": "https://github.com/smith911-tech/react-reveal-animation/issues"
   },
-  "homepage": "https://www.react-reveal.com",
+  "homepage": "",
   "main": "./index.js",
   "dependencies": {
     "prop-types": "^15.5.10"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0"
+    "react": "^18.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.14.0",
